@@ -1,0 +1,7 @@
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\bin\Debug\algorithm.exe.config
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\bin\Debug\algorithm.exe
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\bin\Debug\algorithm.pdb
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\obj\Debug\algorithm.csprojAssemblyReference.cache
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\obj\Debug\algorithm.csproj.CoreCompileInputs.cache
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\obj\Debug\algorithm.exe
+C:\Users\RIETVLEI SSS\source\repos\algorithm\algorithm\obj\Debug\algorithm.pdb
